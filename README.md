@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ertyCrush/ertyCrush/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ertyCrush/ertyCrush/blob/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
